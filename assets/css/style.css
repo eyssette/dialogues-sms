@@ -114,3 +114,11 @@ ul li:nth-of-type(2n):after {
 	background: white;
 	border-bottom-left-radius: 30px;
 }
+
+blockquote {
+	text-align:justify;
+	margin:3em;
+	padding-right:1.5em;
+	font-family: 'Times New Roman', Times, serif;
+	font-size:19px;
+}
