@@ -1,0 +1,37 @@
+# Michael Huemer, _Dialogue entre un carnivore et un végétarien_, Albin Michel, 2021, p.133-136
+
+- Je pense que l’élevage intensif est grave parce qu’il entre en conflit avec les valeurs profondes de notre société. <br><br>Il bat en brèche la compassion ou l’idée qu'« il ne faut pas infliger de souffrances inutiles ». Ce n’est pas moins clair que pour l’esclavage.
+- J’imagine, oui. Mais tant de choses semblent incertaines dans ce domaine. <br><br>Je ne suis pas sûr que cela vaille la peine de changer mon mode de vie alors que les experts n’arrivent même pas à s’entendre sur l’existence de faits moraux, sur le fait qu’ils dépendent de conventions, etc.
+- Ce genre de scepticisme ne semble se manifester que lorsque les gens se trouvent critiqués pour des comportements qu’ils ne veulent pas changer et quand ils sont à court d’arguments pour les défendre. <br><br>Tout à coup, la morale les rend sceptiques, alors que le reste du temps, ils n’ont aucune difficulté à accepter les jugements moraux.
+- Qu’est-ce que tu veux dire ? Je ne passe pas mon temps à juger les gens !
+- Laisse-moi te donner un exemple.<br><br>Imaginons qu’une personne *A* porte plainte contre une personne *B*, et nous faisons partie du jury. <br><br>Nous devons décider si *B* a lésé *A* et si cela requiert une indemnisation.
+- Le jury n’est-il pas censé décider si *B* a fait quelque-chose d’illégal ?
+- Disons que la loi stipule que *A* n’a droit à une indemnisation que si *B* a lésé *A*.
+- D’accord.
+- Il s’avère que *B* a fait exploser la voiture de *A* avec une masse, juste pour s’amuser, et que les dommages s’élèvent à 2000€. <br><br>Plusieurs témoins ont assisté à la scène.
+- Ça a l’air d’être un cas facile. *A* reçoit 2000€.
+- Pas si vite ! Il y a quelques philosophes parmi les jurés : un métaphysicien, un théoricien politique, un épistémologue et un philosophe moral. <br><br>Le métaphysicien soutient que *B* n’est pas responsable de ses actes, parce que le libre arbitre n’existe pas.
+- Ça peut se défendre.
+- Le théoricien politique affirme que l’action de *B* ne pose pas de problème parce que la propriété est un droit illégitime. <br><br>L’épistémologue déclare que les témoignages visuels sont irrecevables tant qu’il n’a pas été prouvé que les sens sont fiables. <br><br>Enfin, le philosophe moral explique qu’il n’existe pas de faits moraux et donc que *B* ne peut pas avoir fait quelque chose de mal.
+- J’imagine que c’est pour ça qu’on évite, en général, d’inviter des philosophes à faire partie d’un jury.
+- (rires). Sans aucun doute. Alors, ton verdict ?
+- Si j’étais d’accord avec l’un de ces philosophes, je soutiendrais l’accusé.
+- Très bien. Mais quel serait ton verdict ? Est-ce que tu dirais que *B* n’a rien fait de mal ?
+- Non. Je continue de penser qu’on doit donner 2000€ à *A*.
+- Les théories philosophiques sceptiques ne t’empêchent donc pas de porter des jugements moraux sur le comportement des autres.
+- Non.
+- Et d’ailleurs, quand je t’ai exposé la situation, tu as dit que c’était un cas facile.
+- Oui, c’est vrai.
+- Eh bien, le cas du végétarisme éthique est tout aussi facile. <br><br>Que consommer de la viande soit une faute morale ne fait pas plus de doute que le fait de détruire la voiture de quelqu’un pour le plaisir – de frapper des enfants, ou de tuer des gens pour de l’argent, etc. – en est une aussi. <br><br>Tu ne ferais pas de telles choses simplement parce qu’il y a une chance que les faits moraux n’existent pas, si ?
+- Non. Mais tu penses vraiment que devenir végétarien est une décision aussi facile et évidente que refuser de tuer pour de l’argent ?
+- Au fond oui. La question cruciale est celle qui demande si l’on peut soutenir quelque chose qui cause une douleur et des souffrances énormes pour pouvoir en retirer des petits bénéfices. <br><br>Il n’y a rien d’autre à prendre en compte. Il ne s’agit pas de savoir « si les vies humaines ont plus de valeur que les vies animales » ou « s’il existe des valeurs objectives », « s’il y a des droits » ou « quel est le fondement des droits ? ». <br><br>Ce qui compte, c’est simplement de savoir si nous causons de grandes souffrances pour de petits bénéfices.
+- Tes arguments semblent rationnels, mais je ne pense pas pouvoir arrêter la viande. <br><br>C’est trop difficile et je n’ai pas de volonté.
+- Je ne pense pas que ce soit vrai.
+- Je te le dis, je ne suis pas prêt à arrêter la viande. Tu penses que je mens ?
+- Non, bien sûr. Mais les gens se trompent souvent sur la raison pour laquelle ils font ce qu’ils font. <br><br>Si tu continues à manger de la viande, ce n’est pas parce qu’il est trop difficile d’arrêter.
+- Qu’est-ce que tu veux dire ?
+- Imagine, tu es au restaurant et tu t’apprêtes à commander de la viande. <br><br>Juste avant que le serveur arrive, je viens te proposer 20€ pour commander un plat végétarien à la place.
+- 20€ ? Dans la plupart des restaurants, c’est plus qu’il n’en faut pour déjeuner.
+- Tu prends les 20€ ?
+- Bien sûr.
+- Il n’est donc pas vraiment difficile de s’abstenir de manger de la viande si 20€ suffisent à t’y faire renoncer.
