@@ -126,3 +126,5 @@ blockquote {
 strong {
 	font-weight:500;
 }
+
+.container-lg ul li:empty{display:none}
