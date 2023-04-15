@@ -1,0 +1,6 @@
+{
+	"markdown.styles": [
+        "assets/css/style.css",
+		"assets/css/vscode-style.css"
+    ],
+}

@@ -1,0 +1,92 @@
+body {
+	background-color:white!important;
+	color:black;
+	max-width: 800px;
+	margin: auto;
+}
+
+h1 {
+	display: block!important;
+	margin-bottom:2em;
+	font-weight: 600;
+}
+
+ul li:hover:before {
+	border-left:none!important;
+	top: inherit!important;
+	left: inherit!important;
+}
+
+ul li:nth-of-type(2n+1):hover:before { 
+	content: ""!important;
+	position: absolute!important;
+	z-index: 0!important;
+	bottom: 0!important;
+	left: -20px!important;
+	height: 40px!important;
+	width: 40px!important;
+	background: #e5e5ea!important;
+	border-bottom-right-radius: 30px!important;
+}
+
+ul li:nth-of-type(2n+1):hover:after {
+	content: ""!important;
+	position: absolute!important;
+	z-index: 1!important;
+	bottom: 0!important;
+	left: -20px!important;
+	width: 20px!important;
+	height: 40px!important;
+	background: white!important;
+	border-bottom-right-radius: 30px!important;
+}
+
+ul li:nth-of-type(2n):hover:before {
+	content: ""!important;
+	position: absolute!important;
+	z-index: 0!important;
+	bottom: 0!important;
+	right: -20px!important;
+	height: 40px!important;
+	width: 40px!important;
+	background: #39a1f9!important;
+	background-attachment: fixed!important;
+	border-bottom-left-radius: 30px!important;
+}
+
+ul li:nth-of-type(2n):hover:after {
+	content: ""!important;
+	position: absolute!important;
+	z-index: 1!important;
+	bottom: 0!important;
+	right: -21px!important;
+	width: 21px!important;
+	height: 41px!important;
+	background: white!important;
+	border-bottom-left-radius: 30px!important;
+}
+
+ul li:empty{display:none}
+
+
+body.showEditorSelection li:nth-of-type(2n).code-active-line:before {
+	left:unset!important;
+}
+
+body.showEditorSelection li:nth-of-type(2n+1).code-active-line:before {
+	left:-20px!important;
+}
+
+body.showEditorSelection li.code-active-line {
+	font-weight: bold;
+	color:black;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left:none!important;
+}
+
+body.showEditorSelection :not(tr,ul,ol).code-active-line:before, body.showEditorSelection :not(tr,ul,ol).code-line:hover:before {
+	top:unset!important;
+	height:40px!important;
+}
